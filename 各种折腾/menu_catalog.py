@@ -38,7 +38,7 @@ def generate_catalog():
         # 去除文件扩展名
         name_without_ext = os.path.splitext(filename)[0]
         # 生成超链接
-        catalog_content += f"{idx}. [{name_without_ext}](./各种折腾/{filename})\n"
+        catalog_content += f"{idx}. [{name_without_ext}](./各种折腾/{name_without_ext})\n"
     
     # 写入index.md文件
     with open('index.md', 'w', encoding='utf-8') as f:
