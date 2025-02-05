@@ -1,3 +1,16 @@
+---
+title: 编程相关目录
+icon: book
+date: 2025-02-05
+category:
+  - 编程学习
+tags:
+  - 编程学习
+description: 
+index: true
+cover:
+---
+
 # 编程相关
 
 ## ✨ 探索知识之旅 ✨

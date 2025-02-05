@@ -1,3 +1,19 @@
+---
+title: 朝阳笔记目录
+icon: book
+date: 2025-02-05
+category:
+  - 笔记
+tags:
+  - 编程学习
+  - 学习笔记
+  - 电脑技术
+  - 工业技术
+description: 
+index: true
+cover:
+---
+
 # 朝阳笔记
 
 ## ✨ 探索知识之旅 ✨

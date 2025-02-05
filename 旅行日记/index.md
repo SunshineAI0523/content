@@ -1,3 +1,20 @@
+---
+title: 旅行日记目录
+icon: book
+date: 2025-02-05
+category:
+  - 旅行
+  - 圣地巡礼
+  - Travel
+tags:
+  - 旅行
+  - 圣地巡礼
+  - Travel
+description: 
+index: true
+cover:
+---
+
 # 旅行日记
 
 ## ✨ 探索知识之旅 ✨

@@ -1,3 +1,20 @@
+---
+title: 各种折腾目录
+icon: book
+date: 2025-02-05
+category:
+  - 电脑优化
+  - 电脑技术
+  - 笔记
+  - 编程学习
+tags:
+  - 编程学习
+  - 电脑技术
+description: 
+index: true
+cover:
+---
+
 # 各种折腾
 
 ## ✨ 探索知识之旅 ✨

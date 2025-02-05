@@ -1,3 +1,18 @@
+---
+title: 建站杂记目录
+icon: book
+date: 2025-02-05
+category:
+  - 笔记
+  - 建站
+tags:
+  - 建站
+  - 学习笔记
+description: 
+index: true
+cover:
+---
+
 # 建站杂记
 
 ## ✨ 探索知识之旅 ✨
