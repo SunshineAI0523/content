@@ -16,11 +16,11 @@ const config = {
     editLinkRoot:
       "https://github.com/SunshineAI0523/SunshineNotes/edit/main",
     showEditLink: true,
-    showToc: true,
+    showToc: false,
     showSidebar: true,
     showComments: true,
     comments: {
-      provider: "", // supported providers: giscus, utterances, disqus
+      provider: "giscus", // supported providers: giscus, utterances, disqus
       pages: ["blog"], // page directories where we want commments
       config: {
         repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
@@ -31,12 +31,12 @@ const config = {
     },
     analytics: "",
     navLinks: [
-      // { href: "/", name: "主页" },
-      // { href: "/各种折腾", name: "各种折腾" },
-      // { href: "/编程相关", name: "编程相关" },
-      // { href: "/朝阳笔记", name: "朝阳笔记" },
-      // { href: "/旅行日记", name: "旅行日记" },
-      // { href: "/本站简介/", name: "本站简介" },
+      { href: "/", name: "主页" },
+      { href: "/各种折腾", name: "各种折腾" },
+      { href: "/编程相关", name: "编程相关" },
+      { href: "/朝阳笔记", name: "朝阳笔记" },
+      { href: "/旅行日记", name: "旅行日记" },
+      { href: "/本站简介/", name: "本站简介" },
       // { href: "/_all", name: "所有标签" },
     ],
     social: [
