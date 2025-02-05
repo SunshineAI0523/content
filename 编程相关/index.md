@@ -1,5 +1,5 @@
 ---
-title: 编程相关目录
+title: 编程相关
 icon: book
 date: 2025-02-05
 category:

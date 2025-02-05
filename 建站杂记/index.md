@@ -1,5 +1,5 @@
 ---
-title: 建站杂记目录
+title: 建站杂记
 icon: book
 date: 2025-02-05
 category:

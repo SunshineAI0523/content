@@ -1,5 +1,5 @@
 ---
-title: 朝阳笔记目录
+title: 朝阳笔记
 icon: book
 date: 2025-02-05
 category:

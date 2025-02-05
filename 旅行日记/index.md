@@ -1,5 +1,5 @@
 ---
-title: 旅行日记目录
+title: 旅行日记
 icon: book
 date: 2025-02-05
 category:
