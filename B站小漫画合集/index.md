@@ -1,13 +1,13 @@
 ---
-title: B站小漫画合集
+title: 22 & 33 小漫画
 index: true
 icon: book
 cover: /assets/images/cover/cover7.png
-category: 
-  - B站小漫画
+category:
+  - 小漫画
+tag:
+  - 小漫画
 ---
-# B站小漫画合集
-# 目录页
 
 1. ![B站小漫画1](images/comics/00FlTw9i50.png)
 2. ![B站小漫画2](images/comics/0Wp3GSTqa2.png)
