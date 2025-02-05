@@ -16,11 +16,11 @@ const config = {
     editLinkRoot:
       "https://github.com/SunshineAI0523/SunshineNotes/edit/main",
     showEditLink: true,
-    showToc: false,
+    showToc: true,
     showSidebar: true,
-    showComments: true,
+    showComments: false,
     comments: {
-      provider: "", // supported providers: giscus, utterances, disqus
+      provider: "giscus", // supported providers: giscus, utterances, disqus
       pages: ["blog"], // page directories where we want commments
       config: {
         repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
